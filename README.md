@@ -14,7 +14,7 @@
 # Here a the final conculsions 
 # 1. The Age of the car and Odometer Reading have the maximum influence. Both imact the price negatively 
 # 2. Cylinders, Transmission and model have some influence on the price
-# 3. The Model with hyperparameters is the best fit for predicting the Used car sale price
+# 3. The Ridge regression model with polynomial degree = 4 and alpha = 1 is the best fit for predicting the Used car sale price
 
 # Here are the details....
 
