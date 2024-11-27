@@ -2,7 +2,7 @@
 # AIML Application for Regression
 
 # The Notebook file path is https://github.com/saikiranbv/AIML_Application/blob/main/Practical_Application_II.ipynb
- The data vehicles.csv is in data folder
+ The data vehicles.csv is in data folder. It is zipped due to its size. Need to unzip before running the notebook
 
 # The business objective is to identify the key factors influencing used car prices.
 
