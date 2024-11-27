@@ -65,3 +65,11 @@ Based on trial and error we got {'polyfeatures__degree': 3, 'ridge__alpha': 1}  
 
 Observation on Ridge Regression Models - The set 3 has better Train and Test MSE values as well as R2 scores
 
+The lasso hyperparameter is 1
+
+# The Ridge regression model with polynomial degree = 4 and alpha = 1 has the best accuracy for both Training and test sets
+
+# Here the finding from the data analysis and model 
+1. The Age of the car and Odometer Reading have the maximum influence. Both imact the price negatively
+2. Cylinders, Transmission and model have some influence on the price
+3. The Ridge regression model with polynomial degree = 4 and alpha = 1 is the best fit for predicting the Used car sale price
