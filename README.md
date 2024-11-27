@@ -1,2 +1,2 @@
-# AIMLApplication2
+# AIMLApplication
 AIMLApplication for Regression 
